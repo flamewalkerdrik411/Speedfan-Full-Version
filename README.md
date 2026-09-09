@@ -232,3 +232,6 @@ This repository serves as the official landing page for SpeedFan. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SpeedFan today!**
+
+---
+**Last updated:** 2026-09-09 18:22:06 UTC
